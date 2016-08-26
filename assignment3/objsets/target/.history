@@ -1,0 +1,19 @@
+eclipse
+test
+run objsets.TweetSet.scala
+submit chengsida@hotmail.com Ztw4uTJbeD1mCtvb
+test
+submit chengsida@hotmail.com Ztw4uTJbeD1mCtvb
+run objsets.TweetSet.scala
+test
+run objsets.TweetSet.scala
+test
+sbt
+run objsets.TweetSet.scala
+test
+run objsets.TweetSet.scala
+submit chengsida@hotmail.com Ztw4uTJbeD1mCtvb
+submit chengsida@hotmail.com d2PKLonR3ktF3odb
+test
+run objsets.TweetSet.scala
+submit chengsida@hotmail.com d2PKLonR3ktF3odb
